@@ -1,0 +1,15 @@
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\bin\Debug\net6.0\linqEruption.exe
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\bin\Debug\net6.0\linqEruption.deps.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\bin\Debug\net6.0\linqEruption.runtimeconfig.json
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\bin\Debug\net6.0\linqEruption.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\bin\Debug\net6.0\linqEruption.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.csproj.AssemblyReference.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.AssemblyInfoInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.AssemblyInfo.cs
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.csproj.CoreCompileInputs.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\refint\linqEruption.dll
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.pdb
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\linqEruption.genruntimeconfig.cache
+C:\Users\smill\OneDrive\Desktop\DojoAssignment\C#\.NET\linqEruption\obj\Debug\net6.0\ref\linqEruption.dll
